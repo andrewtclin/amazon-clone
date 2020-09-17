@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 //#1 Firebase Config
 const firebaseConfig = {
-  /* Add your own firebase configuration */
+  /* Give your own API KEY */
 };
 
 //#2 Set up firebase
